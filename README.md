@@ -2,6 +2,8 @@
 
 A ROS 2 (Jazzy) Python package documenting my path from backend engineering into robotics software. It covers publishers and subscribers, closed-loop control, and lidar-based obstacle avoidance on a simulated TurtleBot3 in Gazebo, all running natively on an Apple Silicon (M1) Mac.
 
+   ![TurtleBot3 in Gazebo (left) and its lidar view in RViz (right)](docs/gazebo_rviz_lidar.png)
+
 ## Highlights
 
 - Set up ROS 2 Jazzy, Gazebo Harmonic, and TurtleBot3 natively on macOS ARM64 using RoboStack and Pixi, with a reproducible, version-pinned environment.
