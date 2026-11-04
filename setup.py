@@ -23,6 +23,7 @@ setup(
         'console_scripts': [
             'move_turtle = my_first_robot.move_turtle:main',
             'wall_avoider = my_first_robot.wall_avoider:main',
+            'lidar_avoider = my_first_robot.lidar_avoider:main',
         ],
     },
 )
